@@ -45,7 +45,7 @@ public class Board {
 
                 if (snakes.containsKey(nextLoc)) {
 
-                    System.out.println(p.getName() + " was bitten by a snake!");
+                    System.out.println(p.getName() + " was bitten by a snake at "+nextLoc);
 
                     Snakes obj = snakes.get(nextLoc);
 
@@ -54,7 +54,7 @@ public class Board {
                 } 
                 else if (ladders.containsKey(nextLoc)) {
 
-                    System.out.println(p.getName() + " climbed a Ladder!");
+                    System.out.println(p.getName() + " climbed a Ladder at"+nextLoc);
 
                     Ladders obj = ladders.get(nextLoc);
 
