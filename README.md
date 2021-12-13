@@ -1,6 +1,9 @@
 # Snake-and-Ladder-Game-Design
 <b><i>Low level Design for Snake and Ladder game</i></b>
 
+![Game](https://github.com/19PA1A0569/pictures/blob/main/snakes-and-ladders.jpg)
+
+
 # Design of Snake and Ladder game
 
   * Create a Snake and Ladder application.
