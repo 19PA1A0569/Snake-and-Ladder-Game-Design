@@ -1,11 +1,11 @@
 import java.util.*;
-public class Snakes {
-    // Each snake will have its head at some number and its tail at a smaller number.
+public class Ladders {
+    // Each ladder will have its start position at some number and end position at a larger number.
     private int startPoint;
     private int endPoint;
 
-    public Snakes(int startPoint, int endPoint) {
-        this.startPoint = startPoint;
+    public Ladders(int startPoint ,int endPoint) {
+        this.startPoint= startPoint;
         this.endPoint = endPoint;
     }
 
@@ -17,3 +17,4 @@ public class Snakes {
         return endPoint;
     }
 }
+ 
