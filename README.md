@@ -46,3 +46,7 @@
  * After the dice roll, if a piece is supposed to move outside position 100, it does not move.
 
  * Snakes and Ladders do not create a cycle.
+
+# Sample Output
+![Game](https://github.com/19PA1A0569/pictures/blob/main/Screenshot_2021-12-13%20Fotor%20Editor%20%EF%BD%9C%20Fotor%20-%20Online%20Fotor%20Editor(2).png)
+![Game](https://github.com/19PA1A0569/pictures/blob/main/Screenshot_2021-12-13%20Fotor%20Editor%20%EF%BD%9C%20Fotor%20-%20Online%20Fotor%20Editor.png)
