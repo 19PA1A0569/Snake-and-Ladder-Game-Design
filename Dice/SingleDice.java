@@ -1,5 +1,6 @@
+import java.io.*;
+import java.math.*;
 import java.util.*;
-
 public class SingleDice extends Dice {
 
     private int noOfDice = 1;
