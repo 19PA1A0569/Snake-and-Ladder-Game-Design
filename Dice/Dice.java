@@ -1,4 +1,5 @@
-class Dice {
+import java.util.*;
+public class Dice {
 
     private int noOfDice;
 
